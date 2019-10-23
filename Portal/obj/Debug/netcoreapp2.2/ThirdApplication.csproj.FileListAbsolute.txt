@@ -1,0 +1,158 @@
+F:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.deps.json
+F:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.json
+F:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.dev.json
+f:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.pdb
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.csprojAssemblyReference.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CoreCompileInputs.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfoInputs.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfo.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.pdb
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.input.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.output.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorCoreGenerate.cache
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cs
+F:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.Views.dll
+f:\Demo\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+F:\Demo\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CopyComplete
+F:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.deps.json
+F:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.json
+F:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.dev.json
+f:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.Views.dll
+f:\Demo\ThirdApplication - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.csprojAssemblyReference.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CoreCompileInputs.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfoInputs.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfo.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.input.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.output.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorCoreGenerate.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cache
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cs
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\ThirdApplication - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CopyComplete
+F:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.deps.json
+F:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.json
+F:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.dev.json
+f:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.Views.dll
+f:\Demo\ThirdApplication - Copy - Copy\bin\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.csprojAssemblyReference.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CoreCompileInputs.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfoInputs.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfo.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.input.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.output.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorCoreGenerate.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cache
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cs
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\ThirdApplication - Copy - Copy\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CopyComplete
+F:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.deps.json
+F:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.json
+F:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.dev.json
+f:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.Views.dll
+f:\Demo\10_12\ThirdApplication\bin\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.csprojAssemblyReference.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CoreCompileInputs.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfoInputs.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfo.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.input.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.output.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorCoreGenerate.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cache
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cs
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\10_12\ThirdApplication\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CopyComplete
+F:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.deps.json
+F:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.json
+F:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.runtimeconfig.dev.json
+f:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.Views.dll
+f:\Demo\Portal\bin\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.csprojAssemblyReference.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CoreCompileInputs.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.RazorAssemblyInfo.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfoInputs.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.AssemblyInfo.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.input.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.TagHelpers.output.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.RazorCoreGenerate.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cache
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.RazorTargetAssemblyInfo.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.Views.pdb
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.dll
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.pdb
+F:\Demo\Portal\obj\Debug\netcoreapp2.2\ThirdApplication.csproj.CopyComplete
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Subjects\Create.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Subjects\Index.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Subjects\Update.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Students_Subjects\Create.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Students_Subjects\Index.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Students_Subjects\Update.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Subjects - Copy\Create.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Subjects - Copy\Index.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Subjects - Copy\Update.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Login.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Home\_Layout.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+f:\Demo\Portal\obj\Debug\netcoreapp2.2\Razor\Views\Home\index1.g.cshtml.cs
